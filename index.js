@@ -13,5 +13,5 @@ app.use(orderRouter);
 app.use(productRouter);
 
 app.listen(PORT,()=>{
-    console.log("my app is running on port " +PORT)
+    console.log("my app is running on port " + PORT + "working now")
 });
